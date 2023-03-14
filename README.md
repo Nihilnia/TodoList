@@ -7,15 +7,10 @@ Todo List is a simple web application that allows you to create,<br/> manage and
 - Add new tasks
 - Mark tasks as completed
 
-## Installation
+## Getting Started
 
-To run the application
-1. Clone the repository: `git clone https://github.com/Nihilnia/TodoList.git`
-2. Navigate to the project directory: `cd TodoList`
-3. Install the dependencies: `npm install`
-4. Start the server: `npm start`
-
-The application will now be running at your localhost.
+To use my Password Generator, simply download or clone the repository and open the `index.html` file in your browser.<br/>
+Alternatively, you can [view the live demo](https://nihilnia.github.io/TodoList) hosted on GitHub Pages.
 
 ## Usage
 To use the application, simply navigate to the [Todo List website](https://nihilnia.github.io/TodoList).<br/><br/>
