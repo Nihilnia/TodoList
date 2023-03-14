@@ -13,7 +13,6 @@ To use my Todo List, simply download or clone the repository and open the `index
 Alternatively, you can [view the live demo](https://nihilnia.github.io/TodoList) hosted on GitHub Pages.
 
 ## Usage
-To use the application, simply navigate to the [Todo List website](https://nihilnia.github.io/TodoList).<br/><br/>
 To add a new task, simply 
 1. Type your task into the input field and press the "Enter" button. 
 2. To mark a task as completed, click on the task.
