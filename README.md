@@ -15,7 +15,7 @@ To run the application
 3. Install the dependencies: `npm install`
 4. Start the server: `npm start`
 
-The application will now be running at https://nihilnia.github.io/TodoList
+The application will now be running at your localhost.
 
 ## Usage
 
