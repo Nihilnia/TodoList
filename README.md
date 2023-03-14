@@ -1,4 +1,4 @@
-# Todo List [![Live on Github Pages](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/liveOnGitHubPages.svg)](nihilnia.github.io/TodoList)
+# Todo List [![Live on Github Pages](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/liveOnGitHubPages.svg)](https://nihilnia.github.io/TodoList)
 
 Todo List is a simple web application that allows you to create,<br/> manage and organize your tasks. You can add new tasks, mark tasks as completed, edit and delete tasks as needed. 
 
