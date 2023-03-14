@@ -29,4 +29,4 @@ Contributions are always welcome! If you have any suggestions or bug reports, pl
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nihilnia/TodoList/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nihilnia/TodoList/blob/main/LICENSE.md) file for details.
