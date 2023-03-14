@@ -9,7 +9,7 @@ Todo List is a simple web application that allows you to create,<br/> manage and
 
 ## Getting Started
 
-To use my Password Generator, simply download or clone the repository and open the `index.html` file in your browser.<br/>
+To use my Todo List, simply download or clone the repository and open the `index.html` file in your browser.<br/>
 Alternatively, you can [view the live demo](https://nihilnia.github.io/TodoList) hosted on GitHub Pages.
 
 ## Usage
