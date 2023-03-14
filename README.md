@@ -30,4 +30,5 @@ Contributions are always welcome! If you have any suggestions or bug reports, pl
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nihilnia/TodoList/blob/main/LICENSE.md) file for details.<br/>
+Feel free to use and modify the code as needed.<br/>
 [![License - MIT](https://img.shields.io/badge/License-MIT-8CB904)](https://choosealicense.com/licenses/mit/)
