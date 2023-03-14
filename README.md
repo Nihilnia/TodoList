@@ -18,7 +18,7 @@ To run the application
 The application will now be running at your localhost.
 
 ## Usage
-
+To use the application, simply navigate to the [Todo List website](https://nihilnia.github.io/TodoList).<br/><br/>
 To add a new task, simply 
 1. Type your task into the input field and press the "Enter" button. 
 2. To mark a task as completed, click on the task.
